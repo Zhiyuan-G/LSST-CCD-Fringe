@@ -1,4 +1,4 @@
-# Modified code from TMM package
+# Modified code from TMM package https://github.com/sbyrnes321/tmm
 # Using numba to speed up code
 
 from numba import jit
